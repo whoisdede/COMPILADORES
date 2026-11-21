@@ -1,0 +1,16 @@
+# Artefatos de build e compilacao
+build/
+pycomp
+*.class
+output.j
+*.o
+lex.yy.c
+*.tab.c
+*.tab.h
+*.output
+a.out
+
+# Arquivos temporarios
+*.Zone.Identifier
+.DS_Store
+*~
